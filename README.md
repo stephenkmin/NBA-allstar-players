@@ -1,4 +1,4 @@
-# project-2
+# NBA-allstar-players
 
     I wanted to take a look at what stats can mark a NBA players as "successful." I figured that making the allstar team is a good indicator as what makes a NBA player "successful." So I found a csv file from data.world that had a list of NBA allstars from 2000 - 2016 season. Then I found on Kaggle a csv file with all professional athletes stats from 2000-2019.
     
